@@ -1,2 +1,5 @@
 # MudGame
-2023
+
+EXPLORE in OUC
+
+Written in Cpp.
