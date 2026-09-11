@@ -1,5 +1,5 @@
 # MudGame
 
-EXPLORE in OUC
+Explore in OUC
 
 Written in Cpp.
